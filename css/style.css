@@ -25,7 +25,7 @@ body {
 
 .home {
     position: relative;
-    height: 60rem;
+    height: 65rem;
     background: url(/assets/img/hero_image.jpg) center/cover fixed;
     z-index: 0;
 }
@@ -40,6 +40,17 @@ body {
     font-size: 2rem;
 }
 
+.navbar {
+    color: #8C5D58;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.navbar-toggler {
+    font-size: 2rem;
+}
+
+
 @media (max-width: 576px) {
     .logo-home {
         display: flex;
@@ -48,4 +59,3 @@ body {
         align-items: center;
     }
 }
-
