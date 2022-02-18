@@ -66,6 +66,12 @@ body {
     background-color: #BFBFBD;
 }
 
+.carousel-item img {
+    max-height: 500px; 
+    object-fit: cover;
+    filter: grayscale(60%);
+  }
+
 @media (max-width: 576px) {
     .logo-home {
         display: flex;
