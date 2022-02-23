@@ -10,7 +10,7 @@ html {
 
 body {
     position: relative;
-    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .hero-shadow {
@@ -84,11 +84,6 @@ body {
 .price-cards h2, .price-cards h1 {
     text-transform: uppercase;
 }
-
-/* .price-cards .card {
-    height: 40rem;
-    width:;
-} */
 
 .price-cards .btn {
     font-size: 1.5rem;
