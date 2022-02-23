@@ -76,6 +76,29 @@ body {
     filter: grayscale(70%);
 }
 
+.price-cards {
+    font-size: 1.5rem;
+    background-color: #BFBFBD;
+}
+
+.price-cards h2, .price-cards h1 {
+    text-transform: uppercase;
+}
+
+.price-cards .card {
+    height: 40rem;
+}
+
+.price-cards .btn {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    background-color: #ccccc8;
+}
+
+.price-cards .btn:hover {
+    background-color: #929292;
+}
+
 @media (max-width: 576px) {
     .logo-home {
         display: flex;
