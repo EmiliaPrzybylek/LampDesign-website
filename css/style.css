@@ -89,6 +89,12 @@ body {
     font-weight: bold;
 }
 
+.price-cards i {
+    padding: 2rem;
+    color: #929292;
+    font-size: 3rem;
+}
+
 .price-cards .btn {
     font-size: 1.5rem;
     text-transform: uppercase;
