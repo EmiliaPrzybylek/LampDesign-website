@@ -85,9 +85,10 @@ body {
     text-transform: uppercase;
 }
 
-.price-cards .card {
+/* .price-cards .card {
     height: 40rem;
-}
+    width:;
+} */
 
 .price-cards .btn {
     font-size: 1.5rem;
