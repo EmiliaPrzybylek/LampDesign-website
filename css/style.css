@@ -80,9 +80,13 @@ body {
     font-size: 1.5rem;
     background-color: #BFBFBD;
 }
-
-.price-cards h2, .price-cards h1 {
+.price-cards h1 {
     text-transform: uppercase;
+}
+
+.price-cards h2 {
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 .price-cards .btn {
