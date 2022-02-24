@@ -225,7 +225,7 @@
 
     <section class="contact p-4" id="contact">
       <div class="container">
-        <h1>Kontakt</h1>
+        <h1 class="py-4">Kontakt</h1>
         <div class="row">
 
           <div class="col-md-4 mb-3">
@@ -245,12 +245,12 @@
 
           <div class="col-md-8">
             <div class="contact-form p-4 border">
+              
               <form>
-
                 <div class="row">
                   <div class="col-md-6">
-                    <p class="m-0">Imię i nazwisko:</p>
-                    <input type="text" class="form-control">
+                    <label for="name" class="m-0">Imię i nazwisko:</label>
+                    <input id="name" type="text" class="form-control">
                   </div>
                   <div class="col-md-6">
                     <label for="exampleFormControlInput1" class="form-label m-0 mt-3 mt-md-0">Adres mailowy:</label>
@@ -270,8 +270,8 @@
                   <label for="exampleFormControlTextarea1" class="form-label m-0 mt-3">Treść wiadomości:</label>
                   <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                 </div>
-                <div>
-                  <button type="button" class="btn btn-light px-5 m-3 ">Wyślij</button>
+                <div class="d-flex justify-content-center">
+                  <button type="button" class="btn btn-light px-5 m-3">Wyślij</button>
                 </div>
 
               </form>
