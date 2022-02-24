@@ -113,8 +113,18 @@ body {
     font-size: 1.5rem;
 }
 
-.contact .contact-address h2 {
+.contact-address h2 {
     text-transform: uppercase;
+}
+
+.contact-socials i {
+    padding: .8rem;
+    color: #929292;
+    font-size: 2rem;
+}
+
+.contact-socials i:hover {
+    color: #5a5a5a;
 }
 
 .contact-form label, .contact-form p {
