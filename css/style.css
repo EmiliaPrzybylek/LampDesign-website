@@ -144,8 +144,6 @@ body {
     font-size: 1.5rem;
 }
 
-
-
 @media (max-width: 576px) {
     .logo-home {
         display: flex;
@@ -153,7 +151,7 @@ body {
         justify-content: center;
         align-items: center;
     }
-    
+
 }
 
 
