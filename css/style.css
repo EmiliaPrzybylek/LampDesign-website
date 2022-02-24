@@ -66,6 +66,10 @@ body {
     background-color: #BFBFBD;
 }
 
+.aboutus .btn:hover {
+    background-color: #929292;;
+}
+
 .carousel-products {
     margin-top: 100px;
 }
@@ -148,6 +152,10 @@ body {
     font-size: 1.3rem;
     text-transform: uppercase;
     background-color: #BFBFBD;
+}
+
+.contact-form .btn:hover {
+    background-color: #929292;;
 }
 
 .footer p {
