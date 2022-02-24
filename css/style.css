@@ -105,7 +105,13 @@ body {
     background-color: #929292;
 }
 
-.
+.contact h1 {
+    text-transform: uppercase;
+}
+
+.contact .contact-address h2 {
+    text-transform: uppercase;
+}
 
 .footer p {
     font-size: 1.5rem;
